@@ -112,7 +112,7 @@ After filtering and viewing the results, the script offers the option to save th
 
 ### Flowchart
 
-![flowchart.drawio](C:\Users\MY HP\Downloads\flowchart.drawio.svg)
+![flowchart.drawio](assets/flowchart.drawio.png)
 
 
 
